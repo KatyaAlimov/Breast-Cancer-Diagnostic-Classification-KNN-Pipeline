@@ -54,13 +54,13 @@ pip install pandas numpy scikit-learn matplotlib seaborn ucimlrepo
 ### 2. Running the Pipeline
 Execute the main script to run data exploration, model tuning, evaluation metrics, and generate visual plots:
 ```bash
-python AS3.py
+python main.py
 ```
 
 ---
 
 ## 📁 Repository Architecture
-*   `AS3.py` - Core execution script containing EDA workflows, custom KNN loops, and evaluation engines.
+*   `main.py` - Core execution script containing EDA workflows, custom KNN loops, and evaluation engines.
 *   `README.md` - Technical infrastructure and feature documentation.
 *   `.gitignore` - Pre-configured rule tracking blocks preventing runtime system configurations from staining version histories.
 
